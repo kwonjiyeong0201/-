@@ -1,0 +1,7 @@
+{
+  "name": "AI 맞춤 수학 튜터 (AI Math Tutor)",
+  "description": "학생의 풀이 사진을 분석하여 개인 맞춤형 오답 노트와 학습 가이드를 제공하고 성장을 추적하는 AI 학습 도우미입니다.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
